@@ -147,10 +147,10 @@ a:focus {
     padding: 0;
   }
   .intro .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 70px;
   }
   .intro .intro-body .intro-text {
-    font-size: 26px;
+    font-size: 23px;
   }
 }
 .btn-circle {
@@ -224,7 +224,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background: url(../img/DYO.png) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
